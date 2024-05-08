@@ -4,6 +4,10 @@
 
 Welcome to the Movie Trivia CLI Application, designed for movie enthusiasts and trivia lovers. This Python command-line application tests your knowledge of movies through a series of interactive questions, covering everything from classic films to modern blockbusters. It's a perfect challenge for film buffs or anyone looking to enjoy some fun trivia in their spare time!
 
+Experience the quiz live here: [Movie Trivia Website](https://movie-trivia-python-version-6f66950c280f.herokuapp.com/).
+
+![Responsive Application](documentation\mockup-image.png)
+
 ## Technologies Used
 
 - **Python**: For the core application logic and user interaction in the command-line.
