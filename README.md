@@ -38,7 +38,8 @@ Experience the quiz live here: [Movie Trivia Website](https://movie-trivia-pytho
 ## Deployment
 
 - This application is designed to be run locally on any machine with Python installed.
-- For distribution, the code can be shared via GitHub and instructions provided for running it on different operating systems.
+- This project uses [Heroku](https://movie-trivia-python-version-6f66950c280f.herokuapp.com/), a platform as a service (PaaS) that  enables developers to build, run, operate  and   applications entirely in the cloud.
+
 
 ## Bugs
 
