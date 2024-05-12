@@ -64,9 +64,3 @@ To run the application:
 3. Navigate to the downloaded directory in your command line interface.
 4. Run the command `python movie_trivia.py` to start the quiz.
 """
-
-# Write the content to a README.md file
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("README.md file has been created.")
