@@ -6,7 +6,7 @@ Welcome to the Movie Trivia CLI Application, designed for movie enthusiasts and 
 
 Experience the quiz live here: [Movie Trivia Website](https://movie-trivia-python-version-6f66950c280f.herokuapp.com/).
 
-![Responsive Application](documentation\mockup-image.png)
+![Responsive Application](documentation/mockup-image.png)
 
 ## Technologies Used
 
